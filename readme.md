@@ -16,7 +16,7 @@ O desafio propõe a criação de um caderno temático no NotebookLM, reunindo fo
 [PDF: O Poder da Análise do Comportamento Aplicada (ABA)](/docs/O%20Poder%20da%20Análise%20do%20Comportamento%20Aplicada%20(ABA).pdf)
 
 🎬 VÍDEO EXPLICATIVO:       
-
+``Vídeo Explicativo completo no Link do NotebookLM``
 
 🗺️ RESUMO MAPA MENTAL:      
 ``Mapa Mental completo no Link do NotebookLM``
