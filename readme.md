@@ -1,14 +1,13 @@
-# Desafio-NotebookLM
+# 👨‍💻 Análise Comportamental Aplicada (ABA)
 
-# 👨‍💻 Guia de Estudo: Análise Comportamental Aplicada (ABA)
-```
-O desafio propõe a criação de um caderno temático no NotebookLM, reunindo fontes abertas em texto ou PDF sobre um tema livre.
-```
+
+> Caderno temático desenvolvido atráves do `NotebookLM`, reunindo fontes abertas em texto e PDF sobre o tema.
+
 
 [![NotebookLM](https://img.shields.io/badge/Acessar-NotebookLM-blue?style=for-the-badge&logo=google)](https://notebooklm.google.com/notebook/0c60c448-6f06-4d1b-8821-c4e936ffd69b)
 
 
-🎯 OBJETIVO: Desenvolver um projeto baseado na Análise do Comportamento Aplicada, oferecendo um trabalho com base em pesquisas sólidas, estudos acadêmicos, técnicos e científicos, promovendo equipes mais eficientes, produtos mais adaptáveis e processos mais sustentáveis.
+🎯 OBJETIVO: Projeto baseado na Análise do Comportamento Aplicada, oferecendo um trabalho com base em pesquisas sólidas, estudos acadêmicos, técnicos e científicos, promovendo equipes mais eficientes, produtos mais adaptáveis e processos mais sustentáveis.
 
 
 📝 GUIA DE ESTUDO:      
